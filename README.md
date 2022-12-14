@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/7825ba9b353b07a5f082cdc503d7a9fd/3373af6f994a1700-ac/s540x810/b624bdbed3d49d15d3bf67c54a9a4732bf239581.gif)](https://hamzaonat.blogspot.com)
+[![MasterHead]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd04WCLp6_AbWx1WNRkc99p4aD60OoWkOJ7DLVvc7zjAaSHHeJ28bRkvfE47t6vF003g7-fnJjxMYYGOYXesgQASSGgOtXxVJB3YWvLfpCm9uwium9MZDiaFgWPxbqMM1VRpVmZyeiis1dnfz48cosiH2AdVNZClqO6fVOqWrzzX2Z-AUi7mrK_OFEjg/w640-h480/b624bdbed3d49d15d3bf67c54a9a4732bf239581.gif]())](https://hamzaonat.blogspot.com)
 <h1 align="center">Hi 👋, I'm Hamza ONAT</h1>
 <h3 align="center">A Software Developer from Turkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://intermittentmechanism.files.wordpress.com/2020/04/chase.gif?w=382&h=229"
