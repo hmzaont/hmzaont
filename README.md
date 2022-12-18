@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Development in Visual Studio, VS Code and Xcode**
 
-- 👨‍💻 All of my projects are available at [hamzaonat.blogspot.com](hamzaonat.blogspot.com)
+- 👨‍💻 All of my projects are available at [https://hamzaonat.blogspot.com/](https://hamzaonat.blogspot.com/)
 
 - 📫 How to reach me **hamzaonat88@gmail.com**
 
